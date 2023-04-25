@@ -1,5 +1,29 @@
 # Final-Project
 
+## Changes
+  - Removed elements of html template that were unnecessary/off topic
+  - Removed non-aplicable js and css files
+  - Revoved unwanted css styles
+  - Identified and renamed variables, id's, and class names
+  - Created Store section replacing a company description section from the template
+  - Removed Contact Us section
+  - Created Order Form Section
+  - Designed iput fields to meet order form requiremnts
+  - Desinged order form CSS
+  - Updated images
+  - Corrected image/banner sizes
+  - Changed CSS colors to a three color design present in the entire page
+  - Handdrew Logo
+  - Painted over banner image to match new css colors
+  - Created new headers
+  - Replaced placeholder text
+  - Corrected Nav Bars and Read Me buttons locations
+  - Added href links from the item prices to the order form
+  - Created simple verification pop-up (HTML,CSS,JS)
+  - Populated text fields in item descriotions and mission statement
+  - Adjusted CSS styles in accordance to new images and colors
+  
+
 ## Original Template Code
 <!DOCTYPE html>
 <html lang="en">
